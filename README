@@ -1,3 +1,3 @@
-This repository contains scripts for accessing the Agilent N6705A power analyzer and the Agilent 53131A universal counter using SCPI and Python.
+This repository contains scripts for accessing the Agilent N6705A power analyzer, the Agilent MSO7104B oscilloscope, and the Agilent 53131A universal counter using SCPI and Python.
 
 This project uses libnienet.py from the gpib-devices library by Robert Jordens (http://bazaar.launchpad.net/~jordens/gpib-devices/trunk/view/head:/gpib/libnienet.py) and a modified version of SCPI.py by Thomas Schmid (https://github.com/tschmid/mclib/).
